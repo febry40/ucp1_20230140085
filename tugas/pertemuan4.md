@@ -2,7 +2,7 @@
 ![alt text](screnshoot/Terminal.png)
 
 ## DBMS – tabel user
-![alt text](screnshoot/DB-users.png)
+![alt text](screnshoot/DBMS-Users.png)
 
 ## DBMS – tabel todo
 ![alt text](screnshoot/DBMS-todo.png)
